@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite_Prod" parallel="classes" thread-count="2">
+    <listeners>
+        <listener class-name="com.prasanth.listeners.TestListener"/>
+    </listeners>
+
+    <test name="Test_Prod">
+<!--        <parameter name="environment" value="prod"/>-->
+        <classes>
+            <class name="com.prasanth.tests.LoginTest"/>
+        </classes>
+    </test>
+</suite>

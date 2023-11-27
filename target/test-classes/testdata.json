@@ -1,0 +1,15 @@
+{
+  "login": {
+    "validUser": {
+      "username": "validUser",
+      "password": "password123"
+    },
+    "invalidUser": {
+      "username": "invalidUser",
+      "password": "invalidPassword"
+    }
+  },
+  "search": {
+    "searchQuery": "automation testing"
+  }
+}
