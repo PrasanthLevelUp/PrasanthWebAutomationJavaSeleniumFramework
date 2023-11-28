@@ -1,8 +1,8 @@
 {
   "login": {
     "validUser": {
-      "username": "validUser",
-      "password": "password123"
+      "username": "Admin",
+      "password": "admin123"
     },
     "invalidUser": {
       "username": "invalidUser",

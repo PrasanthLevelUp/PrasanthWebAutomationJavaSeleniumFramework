@@ -4,6 +4,7 @@ com/prasanth/enums/BrowserType.class
 com/prasanth/reports/ExtentManager.class
 com/prasanth/base/BrowserFactory$1.class
 com/prasanth/pages/BasePage.class
+com/prasanth/testdata/JsonUtils.class
 com/prasanth/base/SeleniumListener.class
 com/prasanth/pages/LoginPage.class
 com/prasanth/base/BrowserFactory.class

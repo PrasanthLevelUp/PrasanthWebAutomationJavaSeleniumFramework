@@ -1,5 +1,6 @@
 /Users/prasanthkaruppaiya/Documents/PrasanthWebAutomationJavaSeleniumFramework/src/main/java/com/prasanth/pages/BasePage.java
 /Users/prasanthkaruppaiya/Documents/PrasanthWebAutomationJavaSeleniumFramework/src/main/java/com/prasanth/pages/LoginPage.java
+/Users/prasanthkaruppaiya/Documents/PrasanthWebAutomationJavaSeleniumFramework/src/main/java/com/prasanth/testdata/JsonUtils.java
 /Users/prasanthkaruppaiya/Documents/PrasanthWebAutomationJavaSeleniumFramework/src/main/java/com/prasanth/config/ConfigReader.java
 /Users/prasanthkaruppaiya/Documents/PrasanthWebAutomationJavaSeleniumFramework/src/main/java/com/prasanth/base/SeleniumListener.java
 /Users/prasanthkaruppaiya/Documents/PrasanthWebAutomationJavaSeleniumFramework/src/main/java/com/prasanth/enums/BrowserType.java
