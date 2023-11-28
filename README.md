@@ -38,4 +38,4 @@ Environment Profiles: The Maven profiles can be used to set up different environ
 
 ##Reports
 
-Test reports will be generated in the htmlReports directory. You can view the HTML reports by opening target/surefire-reports/emailable-report.html in a web browser.
+Test reports will be generated in the htmlReports directory. You can view the HTML reports by opening the latest report in a web browser.
